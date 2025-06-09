@@ -1,5 +1,0 @@
-# Cài các thư viện cần thiết
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
-pip install transformers accelerate
-pip install pdf2image opencv-python pytesseract
-pip install PyMuPDF  # Để xử lý PDF
